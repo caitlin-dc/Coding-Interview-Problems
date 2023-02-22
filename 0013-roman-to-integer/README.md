@@ -28,7 +28,7 @@ M             1000</pre>
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> III = 3.
 </pre>
-
+ 
 <p><strong>Example 2:</strong></p>
 
 <pre><strong>Input:</strong> s = "LVIII"
