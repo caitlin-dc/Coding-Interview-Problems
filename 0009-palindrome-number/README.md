@@ -14,7 +14,7 @@
 <strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong>Example 2:</strong></p> 
 
 <pre><strong>Input:</strong> x = -121
 <strong>Output:</strong> false
