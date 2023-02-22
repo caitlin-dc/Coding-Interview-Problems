@@ -27,5 +27,3 @@ Constraints:
 1 <= s.length <= 5 * 104
 t.length == s.length
 s and t consist of any valid ascii character.
-<p>&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than&nbsp;<code>O(n<sup>2</sup>)&nbsp;</code>time complexity?</div>
