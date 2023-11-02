@@ -20,6 +20,6 @@ class Solution(object):
         elif (j < len(word2)):
             word += word2[i: len(word2)]
 
-        return word
+        return word 
 
         
