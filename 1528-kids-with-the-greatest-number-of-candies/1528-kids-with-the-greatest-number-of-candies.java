@@ -4,12 +4,12 @@ class Solution {
         int max = Arrays.stream(candies).max().getAsInt();
         List<Boolean> mostCandies = new ArrayList<Boolean>();
 
-        for (int i = 0; i < candies.length; i++) {
-            if (candies[i] + extraCandies >= max) {
-                mostCandies.add(i, true);
+        for (int candy: candies) {
+            if (candy + extraCandies >= max) {
+                mostCandies.add(true);
             }
             else {
-                mostCandies.add(i, false);
+                mostCandies.add(false);
             }
         }
         return mostCandies;
