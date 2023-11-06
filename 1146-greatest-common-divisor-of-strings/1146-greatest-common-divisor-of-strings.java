@@ -3,7 +3,7 @@ class Solution {
         
         if (!(str1 + str2).equals(str2 + str1)) {
             return "";
-        }
+        } 
 
         // Find the GCD of both string lengths
         int gcd = 0;
