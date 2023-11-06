@@ -8,7 +8,7 @@ class Solution {
             if (candy + extraCandies >= max) {
                 mostCandies.add(true);
             }
-            else {
+            else { 
                 mostCandies.add(false);
             }
         }
